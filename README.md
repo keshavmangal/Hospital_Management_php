@@ -1,14 +1,22 @@
-# Hospital_Management_php
-Here's a template for a README file for your Hospital Management System (HMS) project:
+Hospital Management System (HMS)
+How to run the Auto/Taxi Stand Management Project Using PHP and MySQL
 
----
+. Download the zip file
+2. Extract the file and copy hospital folder
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Create a database with name hms
+6. Import hms.sql file(given inside the zip package in SQL file folder)
+7.Run the script http://localhost/hospital (frontend)
+Login Details
+Login Details for admin : admin/Test@12345
+Login Details for Patient: johndoe12@test.com/Test@123
+Login Details for Doctor: anujk123@test.com/Test@123
 
-# Hospital Management System (HMS)
-
-## Introduction
+Introduction
 The **Hospital Management System (HMS)** is a comprehensive and integrated software solution designed to streamline and enhance the administrative and clinical operations of healthcare facilities, such as hospitals, clinics, and medical centers. It serves as the digital backbone of modern healthcare institutions, providing a wide range of functionalities to facilitate efficient patient care, resource management, and overall hospital administration.
 
- Key Features
+Key Features
 
 1. Patient Information Management
 - Centralized database of patient records.
