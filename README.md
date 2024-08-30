@@ -104,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contact
 For any inquiries or feedback, please reach out:
 
-Email**: keshav.mangal02@gmail.com
-LinkedIn**: [Keshav Mangal](https://www.linkedin.com/in/keshav-mangal-14a36623b/)
+Email: keshav.mangal02@gmail.com
+LinkedIn: [Keshav Mangal](https://www.linkedin.com/in/keshav-mangal-14a36623b/)
 
 ---
 
