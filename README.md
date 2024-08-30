@@ -58,6 +58,78 @@ The **Hospital Management System (HMS)** is a comprehensive and integrated softw
 12. Mobile Access
 - Provides mobile apps for healthcare providers and patients.
 - Enhances accessibility and convenience.
+- 
+1. Patient Registration:
+   - Capture and manage patient demographic information.
+   - Assign unique patient identifiers.
+   - Maintain patient records and history.
+
+
+
+
+
+2. Appointment Scheduling:
+   - Schedule and manage patient appointments with doctors and other healthcare providers.
+   - Send appointment reminders to patients.
+
+
+
+
+
+3. Electronic Health Records (EHR):
+   - Store and manage patient medical records electronically.
+   - Support for creating, updating, and accessing patient health information.
+   - Security measures to protect sensitive patient data.
+
+
+
+4. Electronic Medical Records (EMR):
+   - Maintain patient-specific medical histories.
+   - Easily share medical records with authorized personnel.
+
+
+
+5. Reporting and Analytics:
+   - Generate reports on various aspects of hospital operations.
+   - Analyze data for decision-making and performance improvement.
+
+
+6.Staff Management:
+-Maintain records of hospital staff, including doctors, nurses, and support staff.
+-Manage employee schedules and payroll.
+
+
+
+
+
+
+
+
+6. Patient Portal:
+   - Allow patients to access their medical records and appointment details online.
+   - Enable patients to communicate with healthcare providers securely.
+
+
+
+7. Telehealth Support:
+   - Enable virtual consultations and telemedicine services.
+These features help streamline hospital operations, improve patient care, reduce administrative overhead, and enhance the overall efficiency of healthcare facilities. The exact feature set and customization options may vary depending on the specific HMS solution and the needs of the hospital.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Technologies Used
 - **Backend**: Node.js
